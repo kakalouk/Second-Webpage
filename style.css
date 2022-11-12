@@ -108,7 +108,7 @@ button{
     font-weight:100;
     text-align: left;
     /* border: 5px solid red; */
-    margin: 0;
+    margin-bottom: 7px;
 }
 
 .section_3 h3{
